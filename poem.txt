@@ -1,0 +1,8 @@
+colours of the rainbow are:
+red
+orange
+yellow
+green
+blue
+indigo
+violet
